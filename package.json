@@ -1,0 +1,15 @@
+{
+  "name": "static_node_and_express_site-v1",
+  "version": "1.0.0",
+  "description": "Treehouse techdegree Unit 6",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Mark",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "pug": "^2.0.4"
+  }
+}
