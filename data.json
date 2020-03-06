@@ -1,0 +1,49 @@
+{
+    "projects": [
+        {
+            "id":"0",
+            "project_name" : "ProVeg",
+            "description" : "Ongoing maintenance of a 9 site WordPress multisite installation",
+            "technologies" : ["css", "html", "WordPress", "JavaScript", "PHP", "MySQL"],
+            "live_link" : "https://proveg.com/",
+            "github_link" : "https://github.com/markyz89/Veggie-Vegan-Restaurant-Finder",
+            "image_urls" : ["images/proveg-large.png", "images/proveg-about.jpg"]
+        },
+        {
+            "id":"1",
+            "project_name" : "StudyMind",
+            "description" : "Custom built WordPress site",
+            "technologies" : ["css", "html", "WordPress", "JavaScript", "PHP"],
+            "live_link" : "https://studymind.co.uk/",
+            "github_link" : "https://github.com/markyz89/study-mind",
+            "image_urls" : ["/images/studymind-large.png", "/images/studymind-square.png"]
+        },
+        {
+            "id":"2",
+            "project_name" : "Phrase Hunter",
+            "description" : "Object Orientated JavaScript game",
+            "technologies" : ["css", "html", "JavaScript", "OOJ", "OOP"],
+            "live_link" : "https://markyz89.github.io/OOP-Game/",
+            "github_link" : "https://github.com/markyz89/OOP-Game",
+            "image_urls" : ["/images/phrase-hunter-large.png", "/images/phrase-hunter-square.png"]
+        },
+        {
+            "id":"3",
+            "project_name" : "API request",
+            "description" : "Directory of random people from an API",
+            "technologies" : ["css", "html", "Fetch", "JavaScript"],
+            "live_link" : "https://markyz89.github.io/Public_api_request/",
+            "github_link" : "https://github.com/markyz89/Public_api_request",
+            "image_urls" : ["/images/api-request-large.png", "/images/api-request-small.png"]
+        },
+        {
+            "id":"4",
+            "project_name" : "MyReads",
+            "description" : "React Application that acts as a virtual bookshelf",
+            "technologies" : ["css", "html", "JavaScript", "React"],
+            "live_link" : "https://markyz89.github.io/myreads/",
+            "github_link" : "https://github.com/markyz89/myreads",
+            "image_urls" : ["/images/myreads-large.jpg", "/images/myreads-square.jpg"]
+        }
+    ]
+}
